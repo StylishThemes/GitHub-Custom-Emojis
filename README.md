@@ -1,3 +1,5 @@
+**Retired:** no longer maintained.
+
 # GitHub Custom Emojis [![tag](https://img.shields.io/github/tag/StylishThemes/GitHub-Custom-Emojis.svg)](https://github.com/StylishThemes/GitHub-Custom-Emojis/tags)
 
 This userscript allows you to use and add custom emojis to GitHub.
